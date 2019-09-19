@@ -10,11 +10,11 @@
 
   Biblioteca de cursos e workshops que escrevi para fins educacionais e passagem de conhecimento.
   
- - [GHCSA - Great Heart Certified System Administrator ](https://github.com/wluisaraujo/wluisaraujo.github.io/tree/master/multiteca/GHCSA)
+ - [GHCSA - Great Heart Certified System Administrator ](https://github.com/wluisaraujo/wluisaraujo.github.io/tree/master/multiteca/GHCSA/README.md)
  
  - [Linux Essentials](https://github.com/wluisaraujo/wluisaraujo.github.io/blob/master/multiteca/LinuxEssentials/README.md)
  
- - [View on GitHub](https://github.com/wluisaraujo/wluisaraujo.github.io/tree/master/multiteca)
+ - [View on GitHub](https://github.com/wluisaraujo/wluisaraujo.github.io/tree/master/multiteca/README.md)
   
 ### PLAN/PROJETOS
 
