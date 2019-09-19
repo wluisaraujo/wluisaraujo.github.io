@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+### ARTIGOS
+  
+  Conteúdo de artigos que postei em outras redes sociais.
+  
+-  [Wiki](https://github.com/wluisaraujo/wluisaraujo.github.io/wiki)
 
-You can use the [editor on GitHub](https://github.com/wluisaraujo/wluisaraujo.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+-  [View on GitHub](https://github.com/wluisaraujo/wluisaraujo.github.io/tree/master/artigos)
+  
+### MULTITECA
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  Biblioteca de cursos e workshops que escrevi para fins educacionais e passagem de conhecimento.
+  
+ - [GHCSA - Great Heart Certified System Administrator ](https://github.com/wluisaraujo/wluisaraujo.github.io/tree/master/multiteca/GHCSA)
+ 
+ - [Linux Essentials](https://github.com/wluisaraujo/wluisaraujo.github.io/blob/master/multiteca/LinuxEssentials/README.md)
+ 
+ - [View on GitHub](https://github.com/wluisaraujo/wluisaraujo.github.io/tree/master/multiteca)
+  
+### PLAN/PROJETOS
 
-### Markdown
+Apresetações de soluções, novas técnologias.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [2015 - Infraestrutura como um código Iac](https://github.com/wluisaraujo/wluisaraujo.github.io/tree/master/projetos/2015_Projeto_IaC)
 
-```markdown
-Syntax highlighted code block
+- [2017 - Infraestrutura como um código para um DataCenter](https://github.com/wluisaraujo/wluisaraujo.github.io/tree/master/projetos/2017_Projeto_IaC_2DC)
 
-# Header 1
-## Header 2
-### Header 3
+- [View on GitHub](https://github.com/wluisaraujo/wluisaraujo.github.io/tree/master/projetos)
+  
+### AUTHOR
 
-- Bulleted
-- List
+   Washington Luis Araújo é um sysadmin apaixonado por Linux com foco em Cloud Computing e IaC.  Formado em Técnologia em Redes de Computadores pela Faculdade Sumaré (2011) & Ténico em Informática pela Bit Company (2010).
+   
+  Possui certificações profissionais ténicas LPIC{1,2,3}, RedHat RHCSA, SUSE CLA; 
+Governamentais Exin (ITIL,ISO20k,ISO27k,CLOUD Computing).
 
-1. Numbered
-2. List
+  Começou sua jornada como 'Micreiro' aos 14 anos de idade fazendo diversos cursos profissionalizantes (de diversos segmentos) Microsoft{Windows,Word,Execel,PowerPoint,Access,FrontPage}, Hardware, Redes, HTML, Macromedia{FreeHand,Dreamweaver,Fireworks,Flash}, Auxiliar Administrativo. 
 
-**Bold** and _Italic_ and `Code` text
+  Saíu do mundo do sistema "Janelas" em 2011  quando obteve sua primeira certificação prodissional em Linux e seu primeiro cargo de SysAdmin...(e assim foi somente para a tela preta).
 
-[Link](url) and ![Image](src)
-```
+  Atualmente é analista de soluções em sistemas GNU/Linux (Analista,consultor,Suporte,Infra) e Analista DevOps com foco em IaC &  Infra ágil(Puppet, Ansible, Git, Jenkins e Rundeck). 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+  Também atuando como instrutor, ministrando cursos de Linux e suas mais diversas tecnologias, capacitando equipes de TI em sistemas Linux e soluções Open Source & FOSS.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wluisaraujo/wluisaraujo.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- [Curriculo](https://github.com/wluisaraujo/wluisaraujo.github.io/tree/master/curriculum)
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [Mail](mailto:w.luis.araujo@gmail.com)
+
+- [Linkedin](https://br.linkedin.com/in/wluisaraujo/)

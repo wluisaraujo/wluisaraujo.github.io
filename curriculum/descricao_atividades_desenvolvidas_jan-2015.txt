@@ -1,0 +1,32 @@
+
+Administração de sistemas GNU/Linux Red-Hat.
+
+São cerca de 35 servidores Red-Hat Linux grande parte alocada no DataCenter da Tivit.
+
+Atividaes técnicas realizadas:
+	- Configuração do Sistema Operacional.
+	- Configurações de Rede do Sistema.
+	- Administração de Usuários e Permissões.
+	- Agendamento de Tarefas.
+	- Configuração de MountPoits e FileSystem.
+	- Configuração de repositorio de programas.
+	- Instalação e Configuração de novos programas e bibliotecas.
+	- Backup de arquivos de configuração.
+
+
+Administrando Serviços:
+
+- DNS (Primario e Secundário). 
+Criação e Manutenção de novas Zonas de Registro; Atualização de Registro.
+
+- E-mail - Servidor de Relay de e-mails.
+
+- FTP.
+Administração de usuários e permissões.
+
+- Auditoria com LogServer e monitoramento com Zabbix. 
+Configuração e manutenção dos agentes;
+
+- Ambiente de BI, Redmine Pentaho e Microstrategy.
+
+
